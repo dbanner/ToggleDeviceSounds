@@ -1,4 +1,4 @@
-This turns off the annoying USB connect/disconnect notifications when these portable external monitors are connected. When the monitor is disconnected, the notifications come back on.
+This turns off the annoying USB connect/disconnect notification sounds when these portable external monitors are connected. When the monitor is disconnected, the notifications come back on.
 
 I have this program starting up when I log in. This is done via Task Scheduler:
 1. Create a Basic Task.
